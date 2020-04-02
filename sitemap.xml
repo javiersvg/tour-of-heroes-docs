@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemap>
+<loc>https://javiersvg.github.io/tour-of-heroes-docs/sitemap-heroes-client.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://javiersvg.github.io/tour-of-heroes-docs/sitemap-heroes-service.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://javiersvg.github.io/tour-of-heroes-docs/sitemap-index.xml</loc>
+</sitemap>
+</sitemapindex>

@@ -8,6 +8,7 @@ content:
     start_path: docs
     branches: HEAD
   - url: https://github.com/javiersvg/tour-of-heroes.wiki.git
+  - url: https://github.com/javiersvg/angular-tour-of-heroes.wiki.git
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable

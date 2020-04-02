@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Hero life cycle","I create a Hero","SUCCESS","2020-03-28T23:12:48.460584Z[Etc/UTC]","0.0","33.37"
+"Hero life cycle","I delete a Hero","SUCCESS","2020-03-28T23:13:22.082043Z[Etc/UTC]","0.0","19.36"
+"Login on the tour of heroes","Login on the tour of heroes home page","SUCCESS","2020-03-28T23:13:41.604798Z[Etc/UTC]","0.0","16.83"
+"Search by keyword","Searching for a term","PENDING","2020-03-28T23:13:58.598592Z[Etc/UTC]","0.0","0.34"
